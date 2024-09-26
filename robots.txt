@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anteidinso.github.io/sitemap.anteidinso.gz
+Sitemap: https://anteidinso.github.io/app/sitemap.anteidinso.gz
+Sitemap: https://anteidinso.github.io/assets/sitemap.anteidinso.gz
+Sitemap: https://anteidinso.github.io/css/sitemap.anteidinso.gz
+Sitemap: https://anteidinso.github.io/data/sitemap.anteidinso.gz
+Sitemap: https://anteidinso.github.io/includes/sitemap.anteidinso.gz
+Sitemap: https://anteidinso.github.io/item/sitemap.anteidinso.gz
+Sitemap: https://anteidinso.github.io/src/sitemap.anteidinso.gz
