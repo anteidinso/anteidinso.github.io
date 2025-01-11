@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: 
-
-Sitemap: https://anteidinso.ekme.pl/anteidinso.txt
